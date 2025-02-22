@@ -72,4 +72,3 @@ print(recommendations)
 
 ---
 
-This README provides **clear setup instructions, how to run the script, what the user should expect, and potential improvements**. Let me know if you want any modifications! 🚀
